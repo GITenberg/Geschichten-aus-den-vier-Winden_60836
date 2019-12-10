@@ -1,5 +1,8 @@
 _repo: Geschichten-aus-den-vier-Winden_60836
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60836-h/images/cover.jpg
 creator:
   author:
     agent_name: Dauthendey, Max
@@ -12,6 +15,8 @@ creator:
     - https://de.wikipedia.org/wiki/Max_Dauthendey
     - https://en.wikipedia.org/wiki/Max_Dauthendey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60836#Geschichten-aus-den-vier-Winden
 gutenberg_issued: '2019-12-03'
 gutenberg_type: Text
 identifiers:
