@@ -1,0 +1,33 @@
+_repo: Geschichten-aus-den-vier-Winden_60836
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dauthendey, Max
+    alias: Dauthendey‏,  Maximilian Albert‏
+    birthdate: 1867
+    deathdate: 1918
+    gutenberg_agent_id: '26361'
+    url: http://www.gutenberg.org/2009/agents/26361
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Max_Dauthendey
+    - https://en.wikipedia.org/wiki/Max_Dauthendey
+description: ''
+gutenberg_issued: '2019-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60836'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, German'
+- !lcsh 'German fiction -- 20th century'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: Das Giftfläschchen -- Himalayafinsternis -- Hecksel und die Bergwerkflöhe
+  -- Zwei Reiter am Meer -- Auf dem Weg zu den Eulenkäfigen -- Nächtliche Schaufenster
+  -- An eine Sechzehnjährige -- Zur Stunde der Maus -- Die Kurzsichtige und der Komet
+  -- Das Iguanodon.
+title: Geschichten aus den vier Winden
+url: http://www.gutenberg.org/ebooks/60836
